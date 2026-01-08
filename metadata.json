@@ -1,0 +1,7 @@
+{
+  "name": "SmartExpense OA - AI Powered Reimbursement",
+  "description": "A professional office automation portal for managing expense reimbursements with AI-powered receipt scanning and automated categorization.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
